@@ -32,3 +32,8 @@ graphify-out/
 
 # Node
 node_modules/
+
+# Agent/IDE local metadata
+.bin/
+.manifests/
+

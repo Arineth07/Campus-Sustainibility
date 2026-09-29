@@ -1,0 +1,4 @@
+sensor_id,facility_id,facility_name,total_readings,status_normal,status_pickup_soon,status_pickup_required,status_overflowing,valid_projections_count,unstable_surge_count,stagnant_rate_count,already_full_count,mae_1h_normal,rmse_1h_normal,max_err_1h_normal,mae_3h_normal,rmse_3h_normal,max_err_3h_normal,total_surges_detected,avg_surge_magnitude_pp,max_surge_magnitude_pp,total_emptyings_detected,avg_empty_drop_pp,readings_over_100,all_over_100_classified_overflowing
+SEN-013,FAC-06,Boys' Hostel Block 1,1440,1396,17,11,16,1086,53,280,0,5.9,14.58,110.3,11.2,22.39,103.04,27,66.0,111.2,24,69.8,16,True
+SEN-016,FAC-07,Girls' Hostel Block 1,1440,1392,14,14,20,1094,64,260,0,6.51,16.99,123.38,12.07,26.16,374.75,32,73.4,96.0,25,69.3,20,True
+SEN-019,FAC-08,Central Mess & Canteen,1440,1399,19,12,10,1108,46,266,0,5.62,14.11,160.18,10.84,25.65,481.8,23,61.0,97.7,22,68.2,10,True

@@ -1,0 +1,8 @@
+# ML Test Dependencies (Backtesting, Evaluation, Analysis, Plotting)
+matplotlib>=3.7.0
+pandas>=2.0.0
+numpy>=1.24.0
+prophet>=1.1.5
+cmdstanpy>=1.0.4
+supabase>=2.0.0
+python-dotenv>=1.0.0

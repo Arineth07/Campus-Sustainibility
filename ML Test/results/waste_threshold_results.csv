@@ -1,0 +1,16 @@
+sensor_id,facility_id,backtest_id,cutoff_time,actual_85_time,predicted_85_time,timing_error_minutes,timing_error_display,status
+SEN-013,FAC-06,1,2026-09-17 08:54,2026-09-17 11:24,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-013,FAC-06,2,2026-09-19 08:54,2026-09-19 11:54,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-013,FAC-06,3,2026-09-21 08:54,2026-09-21 09:24,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-013,FAC-06,4,2026-09-23 08:54,2026-09-23 12:54,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-013,FAC-06,5,2026-09-25 08:54,2026-09-25 14:24,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-016,FAC-07,1,2026-09-17 08:54,2026-09-17 14:54,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-016,FAC-07,2,2026-09-19 08:54,2026-09-19 09:24,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-016,FAC-07,3,2026-09-21 08:54,2026-09-21 18:24,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-016,FAC-07,4,2026-09-23 08:54,2026-09-24 07:54,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-016,FAC-07,5,2026-09-25 08:54,2026-09-25 18:24,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-019,FAC-08,1,2026-09-17 08:54,not reached,not reached,,N/A (neither reached),Neither Reached
+SEN-019,FAC-08,2,2026-09-19 08:54,2026-09-19 17:54,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-019,FAC-08,3,2026-09-21 08:54,not reached,not reached,,N/A (neither reached),Neither Reached
+SEN-019,FAC-08,4,2026-09-23 08:54,2026-09-25 02:54,not reached,,N/A (predicted not reached),Actual Reached / Pred Missed
+SEN-019,FAC-08,5,2026-09-25 08:54,not reached,not reached,,N/A (neither reached),Neither Reached
