@@ -1,0 +1,13 @@
+facility_id,facility_name,facility_type,zone,capacity,floor_area_sqm,operating_hours,is_critical,latitude,longitude
+FAC-01,Main Academic Block A,ACADEMIC,Academic/Admin,1200,8500,07:00-20:00,0,18.521,73.8562
+FAC-02,Central Library,LIBRARY,Academic/Admin,800,6000,08:00-23:00,0,18.5214,73.8567
+FAC-03,Administration Block,ADMIN,Academic/Admin,300,3200,09:00-18:00,0,18.5208,73.857
+FAC-04,Central Data Center,DATA_CENTER,Academic/Admin,15,400,24x7,1,18.5206,73.8569
+FAC-05,Engineering Labs Block,LAB,Academic/Admin,900,7200,08:00-19:00,0,18.5212,73.8558
+FAC-06,Boys' Hostel Block 1,HOSTEL,Residential,600,9000,24x7,0,18.5195,73.8575
+FAC-07,Girls' Hostel Block 1,HOSTEL,Residential,500,8000,24x7,0,18.5192,73.858
+FAC-08,Central Mess & Canteen,DINING,Dining/Utility,1000,3500,06:00-23:00,0,18.5198,73.8578
+FAC-09,Pump House & STP,UTILITY_WATER,Dining/Utility,10,1200,24x7,1,18.5188,73.8555
+FAC-10,Main Electrical Substation,UTILITY_POWER,Dining/Utility,8,800,24x7,1,18.5202,73.8552
+FAC-11,Main Gate & Parking,TRANSIT,Transit/Perimeter,2000,5000,24x7,0,18.522,73.8548
+FAC-12,Sports Complex,SPORTS,Transit/Perimeter,1500,20000,06:00-22:00,0,18.5185,73.859

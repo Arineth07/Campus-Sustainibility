@@ -1,0 +1,34 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Graphify outputs (large generated files)
+graphify-out/
+
+# Qodo
+.qodo/
+
+# Node
+node_modules/
